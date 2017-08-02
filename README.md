@@ -10,7 +10,7 @@ Data:
 -2015/6 campus data: https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&prgopt=2016/xplore/setcamps.sas&year4=2016&_program=perfrept.perfmast.sas&sumlev=C&steps=2
 -Where to look for other post-2012 data: http://tea.texas.gov/perfreport/tapr/index.html  
 
-    -click on the year and find the data download - that's how you get the csv or txt file. 
+   -click on the year and find the data download - that's how you get the csv or txt file. 
     
 -Where to look for data before 2012/3: https://rptsvr1.tea.texas.gov/perfreport/aeis/index.html
 
